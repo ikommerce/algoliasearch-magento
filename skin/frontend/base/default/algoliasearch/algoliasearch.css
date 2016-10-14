@@ -1535,10 +1535,6 @@ a.ais-current-refined-values--link:hover
   right: 12px;
 }
 
-#algolia_instant_selector .result .result-thumbnail img {
-	height: 495px;
-}
-
 @media (min-width: 768px) {
   .autocomplete-wrapper .col9 {
     width: 69%!important;
